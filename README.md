@@ -7,6 +7,12 @@ A simple way would be start two terminals on the same machine and run `python3 s
 
 Alternatively, rename 'localhost' to the server's IP in both scripts and run `client.py` and `server.py` on different machines. `ping` the server's IP and `curl` the server's port to test.
 
+## Later
+chat app layer
+
+buffer input
+
+
 
 ## References: 
 
